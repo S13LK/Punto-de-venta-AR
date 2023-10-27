@@ -19,3 +19,5 @@ Colaboración con el equipo de MindFly, como desarrollador FullStack:
 
 <p>Referencia: https://play.google.com/store/apps/details?id=com.MindFly.ArviSpaceEcommerce&hl=es_MX&gl=US</p><br>
 <img src="https://play-lh.googleusercontent.com/j03ieUj1E-um5gFUWfpdWUp90_5kGH6qrWA2M3G_ot0busGpvpYyQVYd7AGVCqkHDrU=w480-h960-rw">
+<h5>&copy; S13LK</h5>
+
