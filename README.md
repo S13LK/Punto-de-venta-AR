@@ -1,10 +1,21 @@
-<h1> Instancia de muebles a la medida con realidad aumentada </h1>
+<h1>Punto de venta + Augment Reality</h1>
+
 <p>
-Ejemplo de una aplicación de realidad aumentada, en la cual puedes instanciar un mueble en cualquier parte de tu casa.
-Todas las imagenes son de referencia y ejemplo nadamas
-link de la aplicación de ejemplo
+Colaboración con el equipo de MindFly, como desarrollador FullStack:
 </p><br>
 
-https://mega.nz/file/bzw22bLY#zRsMGCPgMG7CevF3Vjwljkdry4oR7VCRq07TL8NRI-Q
+<ol>
+  <li>Desarrollo de la aplicación móvil en Unity3D</li>
+  <li>Administración de base de datos (SQL Server, Mysql, MariaDB) y servidor web</li>
+  <li>Importación de Assets 3D (Models, Materials, Textures, Sprites, shaders, etc)</li>
+  <li>Creación de API´s, Alojamiento de archivos con FileZilla</li>
+  <li>Administración de apps en GooglePlay & AppStore</li>
+  <li>Creación y exportación de AssetsBundles</li>
+  <li>Authentification</li>
+  <li>Animaciones 2d/3d</li>
+  <li>Diseño responsivo UI</li>
+</ol><br>
 
-<img src="">
+
+<p>Referencia: https://play.google.com/store/apps/details?id=com.MindFly.ArviSpaceEcommerce&hl=es_MX&gl=US</p><br>
+<img src="https://play-lh.googleusercontent.com/j03ieUj1E-um5gFUWfpdWUp90_5kGH6qrWA2M3G_ot0busGpvpYyQVYd7AGVCqkHDrU=w480-h960-rw">
